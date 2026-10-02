@@ -91,3 +91,7 @@ Microsoft Excel (fórmulas matriciales, MMULT, distribución normal, CreditMetri
 - Se debe mantener la reserva de capital de forma estricta para asegurar cobertura total en caso de crisis.
 - Hedging: anticiparse a problemas reduciendo participación o comprando seguros para las empresas que el mercado percibe con mayor riesgo.
 - Continua evaluación para poder reaccionar rápido al mercado.
+
+## Autoría
+
+Proyecto desarrollado por Celeste Núñez López, Kevin Rodríguez Pérez, Francisco Lince Domínguez y Alejandro Dorantes Quiroz.
